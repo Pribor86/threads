@@ -1,0 +1,1 @@
+[![Build Status](https://app.travis-ci.com/Pribor86/threads.svg?branch=main)](https://app.travis-ci.com/Pribor86/threads)
