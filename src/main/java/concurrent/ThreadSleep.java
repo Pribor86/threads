@@ -8,7 +8,7 @@ public class ThreadSleep {
             System.out.println("Loading initialized...");
             Thread.sleep(3000);
             System.out.println("Loaded.");
-        }catch (InterruptedException e){
+        } catch (InterruptedException e) {
                     e.printStackTrace();
         }
     }
